@@ -1,0 +1,42 @@
+html {
+  background-color: #c9b5ab;
+  font-family: "PT Sans", sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4 {
+  color: #3f1622;
+  font-family: "PT Serif";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+nav {
+  list-style-type: none;
+  font-size: 1.125rem;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #8f2440;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #3f1622;
+}
+
+body {
+  color: #222;
+  font-weight: normal;
+}
+
+.intro {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
